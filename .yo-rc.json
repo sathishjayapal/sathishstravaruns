@@ -1,0 +1,12 @@
+{
+  "generator-springboot": {
+    "appName": "sathishstravaruns",
+    "packageName": "me.sathish.strava",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "flywaydb",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "me/sathish/strava",
+    "flywayMigrationCounter": 1
+  }
+}
